@@ -30,7 +30,7 @@
     "type": "git",
     "url": "git://github.com/juliangruber/tap-finished.git"
   },
-  "homepage": "https://github.com/juliangruber/tap-finished/tree/throw",
+  "homepage": "https://github.com/juliangruber/tap-finished/tree/throw-publish",
   "keywords": [
     "tap",
     "parse",
