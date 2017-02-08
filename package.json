@@ -1,5 +1,5 @@
 {
-  "name": "tap-finished",
+  "name": "@juliangruber/tap-finished",
   "version": "0.0.1",
   "description": "detect when tap output is finished",
   "main": "index.js",
@@ -28,9 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/tap-finished.git"
+    "url": "git://github.com/juliangruber/tap-finished.git"
   },
-  "homepage": "https://github.com/substack/tap-finished",
+  "homepage": "https://github.com/juliangruber/tap-finished/tree/throw",
   "keywords": [
     "tap",
     "parse",
